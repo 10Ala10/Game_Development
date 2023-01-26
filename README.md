@@ -1,2 +1,2 @@
-# Project_P2M
-It's a project about developing games to improve thinking and reflex
+# Monster Chase
+My first project in the world of game development using unity c#
